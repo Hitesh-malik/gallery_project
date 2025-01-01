@@ -1,0 +1,58 @@
+export const squadsData = [
+  {
+    url: "/comm.png",
+    title: "Design Dynamos",
+    desc: "The artists behind the visuals. These design superheroes bring ideas to life, painting our projects with creativity and imagination",
+    members: "5",
+    id: 1,
+  },
+  {
+    url: "/comm.png",
+    title: "Tech Squads",
+    desc: "The artists behind the visuals. These design superheroes bring ideas to life, painting our projects with creativity and imagination",
+    members: "6",
+    id: 2,
+  },
+  {
+    url: "/comm.png",
+    title: "DevOps Dynamos",
+    desc: "The artists behind the visuals. These design superheroes bring ideas to life, painting our projects with creativity and imagination",
+    members: "7",
+    id: 3,
+  },
+  {
+    url: "/comm.png",
+    title: "Marketing Squads",
+    desc: "The artists behind the visuals. These design superheroes bring ideas to life, painting our projects with creativity and imagination",
+    members: "4",
+    id: 4,
+  },
+  {
+    url: "/comm.png",
+    title: "Sales Dynamos",
+    desc: "The artists behind the visuals. These design superheroes bring ideas to life, painting our projects with creativity and imagination",
+    members: "10",
+    id: 5,
+  },
+  {
+    url: "/comm.png",
+    title: "Sales Dynamos",
+    desc: "The artists behind the visuals. These design superheroes bring ideas to life, painting our projects with creativity and imagination",
+    members: "10",
+    id: 6,
+  },
+  {
+    url: "/comm.png",
+    title: "Sales Dynamos",
+    desc: "The artists behind the visuals. These design superheroes bring ideas to life, painting our projects with creativity and imagination",
+    members: "10",
+    id: 7,
+  },
+  {
+    url: "/comm.png",
+    title: "Sales Dynamos",
+    desc: "The artists behind the visuals. These design superheroes bring ideas to life, painting our projects with creativity and imagination",
+    members: "10",
+    id: 8,
+  },
+];

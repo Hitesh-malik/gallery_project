@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-inter: "Inter", sans-serif;
+  --font-nanum: "Nanum pen", sans-serif;
+}
+
+body {
+  background-color: #080810;
+  color: #fff;
+}
+
+.inter {
+  font-family: var(--font-inter);
+}
+
+.nanum {
+  font-family: var(--font-nanum);
+}
